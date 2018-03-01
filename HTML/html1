@@ -1,0 +1,27 @@
+<html> 
+	<head>
+	</head>
+	<body>
+		<p>
+			Esto es un parrafo
+		</p>
+		<p>
+			Esto es otro parrafo
+			<br>
+			<b>Este texto esta en negrita</b> y este nop 
+		</p>
+		<p align="center">
+			Parrafo centrado
+			<br>
+			Esto esta justo debajo
+			<br>
+			Esto esta justo debajo
+			<br>
+			<b>Este texto esta en negrita</b> y este nop 
+		</p>
+		<p align="right">
+			Parrafo en la derecha
+		</p>
+
+	</body>
+</html>
