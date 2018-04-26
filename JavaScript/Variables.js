@@ -5,7 +5,7 @@ function CambiarTexto() {
 	var miParrafo;
 
 	miParrafo = document.getElementById('Resultado');
-	for (var i = 0; i <= 1000; i++) {
 	miParrafo.innerHTML += "Tu madre es un texto" /*+"<br>"+"Hola que aze"+"<br>"*/
-		}
+	
+	
 }

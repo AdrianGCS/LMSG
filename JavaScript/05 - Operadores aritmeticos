@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Operadores aritmeticos</title>
+</head>
+<meta charset="utf-8">
+<script type="text/javascript"
+	src="OperadoresAritmeticos.js">
+</script>
+<body>
+<p>
+	Esta página tiene un boton para hacer operaciones aritméticas
+</p>
+<img src="imagenes/Crear.jpeg"
+	onclick="CalcularOperadores()">
+	<p id="Resultado">
+		Este es el texto
+	</p>
+</body>
+</html>
